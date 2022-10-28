@@ -35,7 +35,7 @@
 
 <img src="https://img.icons8.com/color/344/flutter.png" alt="Flutter" height="50" width="50"/>
 <img src="https://img.icons8.com/fluency/344/android-studio--v2.png" alt="androidstudio" height="50" width="50"/>
-<img src="https://user-images.githubusercontent.cohow m/89718255/198183066-de4761c5-6b8d-4d28-a256-b27ba27cf311.png" alt="html" height="50" width="50"/>
+<img src="https://user-images.githubusercontent.com/89718255/198183066-de4761c5-6b8d-4d28-a256-b27ba27cf311.png" alt="html" height="50" width="50"/>
 <img src="https://user-images.githubusercontent.com/89718255/198183087-7b4ab74d-78d7-425d-9534-427345b28b84.png" alt="css" height="50" width="50"/>
 <img src="https://user-images.githubusercontent.com/89718255/198183115-12e0043e-d5a3-4e1e-ab62-ae69de625025.png" alt="javascript" height="50" width="50"/>
 <img src="https://user-images.githubusercontent.com/89718255/198183139-720f2449-59be-49d4-bd62-05fc8d8b2934.png" alt="bootstrap" height="50" width="50"/>
