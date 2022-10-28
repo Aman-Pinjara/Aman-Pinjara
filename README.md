@@ -3,7 +3,7 @@
 
 <!-- - 🔭 Portfolio : <a href="https://yashnerkar.github.io">yashnerkar.github.io</a> -->
 
-- 🔭 I’m currently working on LL-Trainer my Flutter project
+- 🔭 I’m currently working on LL-Trainer a Flutter project
 - 🌱 I’m currently learning Web Dev
 - 👯 I’m looking to collaborate on Flutter Projects
 - 📫 How to reach me out **amanpinjara23@gmail.com**
