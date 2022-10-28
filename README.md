@@ -35,6 +35,9 @@
 
 <img src="https://img.icons8.com/color/344/flutter.png" alt="Flutter" height="50" width="50"/>
 <img src="https://img.icons8.com/fluency/344/android-studio--v2.png" alt="androidstudio" height="50" width="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" height="50" width="50"/>
+<img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" height="50" width="50"/>
+<br/>
 <br/>
 <img src="https://user-images.githubusercontent.com/89718255/198183066-de4761c5-6b8d-4d28-a256-b27ba27cf311.png" alt="html" height="50" width="50"/>
 <img src="https://user-images.githubusercontent.com/89718255/198183087-7b4ab74d-78d7-425d-9534-427345b28b84.png" alt="css" height="50" width="50"/>
@@ -43,6 +46,6 @@
 <!-- <img src="https://user-images.githubusercontent.com/89718255/198186337-49556f5b-5dec-4340-a5b7-e558b82f33fd.png" alt="expressjs" width="50" height="50"/> -->
 <img src="https://user-images.githubusercontent.com/89718255/198186054-317ff921-e333-4573-951d-e9882f54ac27.png" alt="git" width="50" height="50"/>
 <img src="https://user-images.githubusercontent.com/89718255/198185983-ba562d4b-9cb3-43f4-8b75-d1a80629e4ae.png" alt="mongodb" width="50" height="50"/>
-<img src="https://user-images.githubusercontent.com/89718255/198185804-abaf36ba-a2e1-4847-8a14-0dd7bcd055cb.png" alt="nodejs" width="50" height="50"/>
+<!-- <img src="https://user-images.githubusercontent.com/89718255/198185804-abaf36ba-a2e1-4847-8a14-0dd7bcd055cb.png" alt="nodejs" width="50" height="50"/> -->
 <img src="https://user-images.githubusercontent.com/89718255/198183228-d5ba9eea-9517-4873-a5ff-36ded3046842.png" alt="reactjs" width="50" height="50"/>
 </div>
