@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Faizan</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Aman</h1>
+<h3 align="center">Flutter Developer</h3>
 
 <!-- - 🔭 Portfolio : <a href="https://yashnerkar.github.io">yashnerkar.github.io</a> -->
 
